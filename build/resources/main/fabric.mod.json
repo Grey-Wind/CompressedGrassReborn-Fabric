@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "compressed_grass",
+  "version": "1.0.0",
+  "name": "Compressed Grass:Reborn",
+  "authors": [
+    "19534, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.compressedgrass.CompressedGrassMod"
+    ],
+    "client": [
+      "net.mcreator.compressedgrass.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "accessWidener": "compressed_grass.accesswidener"
+}
