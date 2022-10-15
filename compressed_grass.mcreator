@@ -98,6 +98,15 @@
       "locked_code": false,
       "registry_name": "double_compressed_grass_synthesis",
       "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "TripleCompressedGrassSynthesis",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triple_compressed_grass_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
     }
   ],
   "variable_elements": [],
@@ -115,7 +124,7 @@
       "item.compressed_grass.octuple_compressed_grass": "Octuple Compressed Grass"
     },
     "zh_cn": {
-      "item.compressed_grass.nonuple_compressed_grass": "Nonuple Compressed Grass",
+      "item.compressed_grass.nonuple_compressed_grass": "九倍压缩草",
       "item.compressed_grass.compressed_grass": "一倍压缩草",
       "item.compressed_grass.septuple_compressed_grass": "七倍压缩草",
       "item.compressed_grass.quadruple_compressed_grass": "四倍压缩草",
@@ -144,11 +153,12 @@
     "modid": "compressed_grass",
     "modName": "Compressed Grass:Reborn",
     "version": "1.0.0",
-    "author": "19534, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "author": "GreyWind",
+    "websiteURL": "https://github.com/Adenx0/CompressedGrassReborn-Fabric",
+    "license": "GNU Affero General Public License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "compressedgrass",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
