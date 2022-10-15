@@ -134,6 +134,24 @@
       "locked_code": false,
       "registry_name": "grass",
       "path": "~/Creative Tab"
+    },
+    {
+      "name": "SextupleCompressedGrassSynthesis",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sextuple_compressed_grass_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "SeptupleCompressedGrassSynthesis",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "septuple_compressed_grass_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
     }
   ],
   "variable_elements": [],
