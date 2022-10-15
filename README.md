@@ -1,6 +1,6 @@
 # CompressedGrass:Reborn(Fabric)
 
-### Quick Links
+## Quick Links
 
 [Releases](https://github.com/Adenx0/CompressedGrassReborn-Fabric/releases)
 
