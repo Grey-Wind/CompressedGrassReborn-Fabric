@@ -161,6 +161,15 @@
       "locked_code": false,
       "registry_name": "octuple_compressed_grass_synthesis",
       "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "NonupleCompressedGrassSynthesis",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nonuple_compressed_grass_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
     }
   ],
   "variable_elements": [],
