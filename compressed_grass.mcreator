@@ -303,6 +303,7 @@
     "modid": "compressed_grass",
     "modName": "Compressed Grass:Reborn",
     "version": "1.0.0",
+    "description": "The mod remade Compressed Grass made by GreyWind updates the original 1.7.10 version of the mod to 1.16.5. I will gradually improve and add the content that the original author did not add before.",
     "author": "GreyWind",
     "websiteURL": "https://github.com/Adenx0/CompressedGrassReborn-Fabric",
     "license": "GNU Affero General Public License v3.0",
