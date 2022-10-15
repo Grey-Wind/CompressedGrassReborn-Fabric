@@ -1,40 +1,35 @@
 {
   "group": "compressed_grass",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "012",
-    "345",
-    "678"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:grass"
     },
-    "1": {
+    {
       "item": "minecraft:grass"
     },
-    "2": {
+    {
       "item": "minecraft:grass"
     },
-    "3": {
+    {
       "item": "minecraft:grass"
     },
-    "4": {
+    {
       "item": "minecraft:grass"
     },
-    "5": {
+    {
       "item": "minecraft:grass"
     },
-    "6": {
+    {
       "item": "minecraft:grass"
     },
-    "7": {
+    {
       "item": "minecraft:grass"
     },
-    "8": {
+    {
       "item": "minecraft:grass"
     }
-  },
+  ],
   "result": {
     "item": "compressed_grass:compressed_grass",
     "count": 1
