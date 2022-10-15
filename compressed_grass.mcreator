@@ -107,6 +107,24 @@
       "locked_code": false,
       "registry_name": "triple_compressed_grass_synthesis",
       "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "QuadrupleCompressedGrassSynthesis",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quadruple_compressed_grass_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "QuintupleCompressedGrassSynthesis",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quintuple_compressed_grass_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
     }
   ],
   "variable_elements": [],
