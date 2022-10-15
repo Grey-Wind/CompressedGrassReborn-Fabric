@@ -80,12 +80,31 @@
       "locked_code": false,
       "registry_name": "compressed_grass_synthesis",
       "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "NonupleCompressedGrass",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nonuple_compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "DoubleCompressedGrassSynthesis",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_compressed_grass_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.compressed_grass.nonuple_compressed_grass": "Nonuple Compressed Grass",
       "item.compressed_grass.compressed_grass": "Compressed Grass",
       "item.compressed_grass.septuple_compressed_grass": "Septuple Compressed Grass",
       "item.compressed_grass.quadruple_compressed_grass": "Quadruple Compressed Grass",
@@ -96,6 +115,7 @@
       "item.compressed_grass.octuple_compressed_grass": "Octuple Compressed Grass"
     },
     "zh_cn": {
+      "item.compressed_grass.nonuple_compressed_grass": "Nonuple Compressed Grass",
       "item.compressed_grass.compressed_grass": "一倍压缩草",
       "item.compressed_grass.septuple_compressed_grass": "七倍压缩草",
       "item.compressed_grass.quadruple_compressed_grass": "四倍压缩草",
