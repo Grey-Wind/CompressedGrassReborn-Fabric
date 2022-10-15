@@ -1,8 +1,12 @@
 # CompressedGrass:Reborn(Fabric)
 
+### Quick Links
+
 [Releases](https://github.com/Adenx0/CompressedGrassReborn-Fabric/releases)
 
-[Forge](https://github.com/Adenx0/Compressed_Grass_Reborn)
+[Forge version](https://github.com/Adenx0/Compressed_Grass_Reborn)
+
+## About
 
 The mod remade Compressed Grass made by GreyWind updates the original 1.7.10 version of the mod to 1.16.5. I will gradually improve and add the content that the original author did not add before.
 
@@ -11,6 +15,8 @@ We now have many things, such as armors, tools, entities and more other interest
 # Schedule
 
 Restart all the project(2022/10/14)
+
+Build successful(2022/10/15)
 
 # Sponsorship and Cooperation(something incidental)
 
