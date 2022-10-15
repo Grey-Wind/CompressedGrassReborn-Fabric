@@ -4,13 +4,14 @@
   "version": "1.0.0",
   "name": "Compressed Grass:Reborn",
   "authors": [
-    "19534, MCreator"
+    "GreyWind"
   ],
   "contact": {
-    "homepage": "https://mcreator.net",
+    "homepage": "https://github.com/Adenx0/CompressedGrassReborn-Fabric",
     "sources": ""
   },
-  "license": "Academic Free License v3.0",
+  "license": "GNU Affero General Public License v3.0",
+  "icon": "assets/compressed_grass/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [

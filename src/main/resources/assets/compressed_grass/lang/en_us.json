@@ -2,6 +2,7 @@
   "item.compressed_grass.nonuple_compressed_grass": "Nonuple Compressed Grass",
   "item.compressed_grass.compressed_grass": "Compressed Grass",
   "item.compressed_grass.septuple_compressed_grass": "Septuple Compressed Grass",
+  "itemGroup.compressed_grass.grass": "Grass",
   "item.compressed_grass.quadruple_compressed_grass": "Quadruple Compressed Grass",
   "item.compressed_grass.double_compressed_grass": "Double Compressed Grass",
   "item.compressed_grass.sextuple_compressed_grass": "Sextuple Compressed Grass",

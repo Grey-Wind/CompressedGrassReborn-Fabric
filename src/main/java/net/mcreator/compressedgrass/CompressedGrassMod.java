@@ -15,6 +15,7 @@ package net.mcreator.compressedgrass;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
+import net.mcreator.compressedgrass.init.CompressedGrassModTabs;
 import net.mcreator.compressedgrass.init.CompressedGrassModItems;
 
 import net.fabricmc.api.ModInitializer;
@@ -26,6 +27,7 @@ public class CompressedGrassMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing CompressedGrassMod");
+		CompressedGrassModTabs.load();
 
 		CompressedGrassModItems.load();
 
