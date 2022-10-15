@@ -1,0 +1,11 @@
+compressed
+double
+triple
+quadruple
+quintuple
+sextuple
+septuple
+octuple
+nonuple
+limit
+enchanted

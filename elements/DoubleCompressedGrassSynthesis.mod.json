@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "compressed_grass",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CompressedGrass"
+      },
+      {
+        "value": "CUSTOM:CompressedGrass"
+      },
+      {
+        "value": "CUSTOM:CompressedGrass"
+      },
+      {
+        "value": "CUSTOM:CompressedGrass"
+      },
+      {
+        "value": "CUSTOM:CompressedGrass"
+      },
+      {
+        "value": "CUSTOM:CompressedGrass"
+      },
+      {
+        "value": "CUSTOM:CompressedGrass"
+      },
+      {
+        "value": "CUSTOM:CompressedGrass"
+      },
+      {
+        "value": "CUSTOM:CompressedGrass"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DoubleCompressedGrass"
+    },
+    "name": "double_compressed_grass_synthesis",
+    "namespace": "mod"
+  }
+}

@@ -1,13 +1,124 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "CompressedGrass",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "DoubleCompressedGrass",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "TripleCompressedGrass",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triple_compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "QuadrupleCompressedGrass",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quadruple_compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "QuintupleCompressedGrass",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quintuple_compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "SextupleCompressedGrass",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sextuple_compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "SeptupleCompressedGrass",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "septuple_compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "OctupleCompressedGrass",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "octuple_compressed_grass",
+      "path": "~/CompressedGrass"
+    },
+    {
+      "name": "CompressedGrassSynthesis",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_grass_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.compressed_grass.compressed_grass": "Compressed Grass",
+      "item.compressed_grass.septuple_compressed_grass": "Septuple Compressed Grass",
+      "item.compressed_grass.quadruple_compressed_grass": "Quadruple Compressed Grass",
+      "item.compressed_grass.double_compressed_grass": "Double Compressed Grass",
+      "item.compressed_grass.sextuple_compressed_grass": "Sextuple Compressed Grass",
+      "item.compressed_grass.triple_compressed_grass": "Triple Compressed Grass",
+      "item.compressed_grass.quintuple_compressed_grass": "Quintuple Compressed Grass",
+      "item.compressed_grass.octuple_compressed_grass": "Octuple Compressed Grass"
+    },
+    "zh_cn": {
+      "item.compressed_grass.compressed_grass": "一倍压缩草",
+      "item.compressed_grass.septuple_compressed_grass": "七倍压缩草",
+      "item.compressed_grass.quadruple_compressed_grass": "四倍压缩草",
+      "item.compressed_grass.double_compressed_grass": "二倍压缩草",
+      "item.compressed_grass.sextuple_compressed_grass": "六倍压缩草",
+      "item.compressed_grass.triple_compressed_grass": "三倍压缩草",
+      "item.compressed_grass.quintuple_compressed_grass": "五倍压缩草",
+      "item.compressed_grass.octuple_compressed_grass": "八倍压缩草"
+    }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "CompressedGrass",
+        "children": [
+          {
+            "name": "Synthesis",
+            "children": []
+          }
+        ]
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "compressed_grass",
@@ -22,7 +133,8 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.16.5",
+    "currentGenerator": "fabric-1.19.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.compressedgrass",
     "lockBaseModFiles": false
   },
