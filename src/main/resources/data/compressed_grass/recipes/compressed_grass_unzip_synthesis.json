@@ -1,0 +1,13 @@
+{
+  "group": "compressed_grass",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "compressed_grass:compressed_grass"
+    }
+  ],
+  "result": {
+    "item": "minecraft:grass",
+    "count": 9
+  }
+}

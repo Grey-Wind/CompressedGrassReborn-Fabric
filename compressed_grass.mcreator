@@ -170,6 +170,87 @@
       "locked_code": false,
       "registry_name": "nonuple_compressed_grass_synthesis",
       "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "CompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "DoubleCompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "TripleCompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triple_compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "QuadrupleCompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quadruple_compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "QuintupleCompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quintuple_compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "SextupleCompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sextuple_compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "SeptupleCompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "septuple_compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "OctupleCompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "octuple_compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
+    },
+    {
+      "name": "NonupleCompressedGrassUnzipSynthesis",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nonuple_compressed_grass_unzip_synthesis",
+      "path": "~/CompressedGrass/Synthesis"
     }
   ],
   "variable_elements": [],
