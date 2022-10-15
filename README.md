@@ -14,9 +14,9 @@ We now have many things, such as armors, tools, entities and more other interest
 
 # Schedule
 
-Restart all the project(2022/10/14)
+Restart all the project(2022/10/14)——I spend 8 hours to try to build it.
 
-Build successful(2022/10/15)
+Build successful(2022/10/15)——I use the old build successful project and change its version.
 
 # Sponsorship and Cooperation(something incidental)
 
