@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NonupleCompressedGrass"
+      },
+      {
+        "value": "CUSTOM:NonupleCompressedGrass"
+      },
+      {
+        "value": "CUSTOM:NonupleCompressedGrass"
+      },
+      {
+        "value": "CUSTOM:NonupleCompressedGrass"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NonupleCompressedGrass"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:NonupleCompressedArmor.helmet"
+    },
+    "name": "nonuple_compressed_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}
