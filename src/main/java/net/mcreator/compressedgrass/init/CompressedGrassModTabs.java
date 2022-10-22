@@ -13,8 +13,11 @@ import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 
 public class CompressedGrassModTabs {
 	public static CreativeModeTab TAB_GRASS;
+	public static CreativeModeTab TAB_GRASS_ARMOR;
 
 	public static void load() {
 		TAB_GRASS = FabricItemGroupBuilder.create(new ResourceLocation("compressed_grass", "grass")).icon(() -> new ItemStack(Blocks.GRASS)).build();
+		TAB_GRASS_ARMOR = FabricItemGroupBuilder.create(new ResourceLocation("compressed_grass", "grass_armor"))
+				.icon(() -> new ItemStack(CompressedGrassModItems.NONUPLE_COMPRESSED_ARMOR_CHESTPLATE)).build();
 	}
 }

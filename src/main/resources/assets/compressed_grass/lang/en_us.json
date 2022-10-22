@@ -41,6 +41,7 @@
   "item.compressed_grass.sextuple_compressed_grass": "Sextuple Compressed Grass",
   "item.compressed_grass.double_compressed_armor_boots": "Double Compressed Grass Boots",
   "item.compressed_grass.triple_compressed_armor_helmet": "Triple Compressed Grass Helmet",
+  "itemGroup.compressed_grass.grass_armor": "Grass:Armor and Tools",
   "item.compressed_grass.compressed_armor_boots": "Compressed Grass Boots",
   "item.compressed_grass.nonuple_compressed_armor_boots": "Nonuple Compressed Grass Boots",
   "item.compressed_grass.quintuple_compressed_grass": "Quintuple Compressed Grass",

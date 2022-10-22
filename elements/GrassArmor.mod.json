@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Grass:Armor and Tools",
+    "icon": {
+      "value": "CUSTOM:NonupleCompressedArmor.body"
+    },
+    "showSearch": false
+  }
+}
