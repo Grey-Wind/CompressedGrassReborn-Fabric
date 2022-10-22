@@ -12,13 +12,13 @@ The mod remade Compressed Grass made by GreyWind updates the original 1.7.10 ver
 
 We now have many things, such as armors, tools, entities and more other interesting and amazing things.
 
-# Schedule
+## Important Schedule
 
 Restart all the project(2022/10/14)——I spend 8 hours to try to build it.
 
 Build successful(2022/10/15)——I use the old build successful project and change its version.
 
-# Sponsorship and Cooperation(something incidental)
+## Sponsorship and Cooperation(something incidental)
 
 All the things about sponsorship and cooperation please see the readme in the forge version.
 
