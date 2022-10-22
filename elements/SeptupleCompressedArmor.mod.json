@@ -14,10 +14,10 @@
       "value": "COMBAT"
     },
     "armorTextureFile": "septuplecompressed",
-    "helmetName": "SeptupleCompressed Helmet",
-    "bodyName": "SeptupleCompressed Chestplate",
-    "leggingsName": "SeptupleCompressed Leggings",
-    "bootsName": "SeptupleCompressed Boots",
+    "helmetName": "Septuple Compressed Grass Helmet",
+    "bodyName": "Septuple Compressed Grass Chestplate",
+    "leggingsName": "Septuple Compressed Grass Leggings",
+    "bootsName": "Septuple Compressed Grass Boots",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -48,10 +48,10 @@
     "damageValueLeggings": 30,
     "damageValueBoots": 10,
     "enchantability": 45,
-    "toughness": 0.0,
-    "knockbackResistance": 0.0,
+    "toughness": 1.5,
+    "knockbackResistance": 0.2,
     "equipSound": {
-      "value": ""
+      "value": "entity.armorstand.place"
     },
     "repairItems": [
       {

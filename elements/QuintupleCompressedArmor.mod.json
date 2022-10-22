@@ -14,10 +14,10 @@
       "value": "COMBAT"
     },
     "armorTextureFile": "quintuplecompressed",
-    "helmetName": "QuintupleCompressed Helmet",
-    "bodyName": "QuintupleCompressed Chestplate",
-    "leggingsName": "QuintupleCompressed Leggings",
-    "bootsName": "QuintupleCompressed Boots",
+    "helmetName": "Quintuple Compressed Grass Helmet",
+    "bodyName": "Quintuple Compressed Grass Chestplate",
+    "leggingsName": "Quintuple Compressed Grass Leggings",
+    "bootsName": "Quintuple Compressed Grass Boots",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -48,10 +48,10 @@
     "damageValueLeggings": 18,
     "damageValueBoots": 6,
     "enchantability": 27,
-    "toughness": 0.0,
-    "knockbackResistance": 0.0,
+    "toughness": 1.0,
+    "knockbackResistance": 0.1,
     "equipSound": {
-      "value": ""
+      "value": "entity.armorstand.place"
     },
     "repairItems": [
       {

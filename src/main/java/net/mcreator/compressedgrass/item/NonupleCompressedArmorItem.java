@@ -52,12 +52,12 @@ public abstract class NonupleCompressedArmorItem extends ArmorItem {
 
 			@Override
 			public float getToughness() {
-				return 0f;
+				return 3f;
 			}
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0f;
+				return 0.5f;
 			}
 		}, slot, properties);
 	}

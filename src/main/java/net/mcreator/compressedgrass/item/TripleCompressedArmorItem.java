@@ -36,7 +36,7 @@ public abstract class TripleCompressedArmorItem extends ArmorItem {
 
 			@Override
 			public SoundEvent getEquipSound() {
-				return new SoundEvent(new ResourceLocation(""));
+				return new SoundEvent(new ResourceLocation("entity.armor_stand.place"));
 			}
 
 			@Override
@@ -52,7 +52,7 @@ public abstract class TripleCompressedArmorItem extends ArmorItem {
 
 			@Override
 			public float getToughness() {
-				return 0f;
+				return 0.3f;
 			}
 
 			@Override

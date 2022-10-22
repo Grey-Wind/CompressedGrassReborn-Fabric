@@ -36,7 +36,7 @@ public abstract class QuintupleCompressedArmorItem extends ArmorItem {
 
 			@Override
 			public SoundEvent getEquipSound() {
-				return new SoundEvent(new ResourceLocation(""));
+				return new SoundEvent(new ResourceLocation("entity.armor_stand.place"));
 			}
 
 			@Override
@@ -52,12 +52,12 @@ public abstract class QuintupleCompressedArmorItem extends ArmorItem {
 
 			@Override
 			public float getToughness() {
-				return 0f;
+				return 1f;
 			}
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0f;
+				return 0.1f;
 			}
 		}, slot, properties);
 	}

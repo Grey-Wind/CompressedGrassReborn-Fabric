@@ -14,10 +14,10 @@
       "value": "COMBAT"
     },
     "armorTextureFile": "compressed",
-    "helmetName": "Compressed Helmet",
-    "bodyName": "Compressed Chestplate",
-    "leggingsName": "Compressed Leggings",
-    "bootsName": "Compressed Boots",
+    "helmetName": "Compressed Grass Helmet",
+    "bodyName": "Compressed Grass Chestplate",
+    "leggingsName": "Compressed Grass Leggings",
+    "bootsName": "Compressed Grass Boots",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -48,10 +48,10 @@
     "damageValueLeggings": 6,
     "damageValueBoots": 2,
     "enchantability": 9,
-    "toughness": 0.0,
+    "toughness": 0.1,
     "knockbackResistance": 0.0,
     "equipSound": {
-      "value": ""
+      "value": "entity.armorstand.place"
     },
     "repairItems": [
       {

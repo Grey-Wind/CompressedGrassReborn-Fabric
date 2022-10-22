@@ -14,10 +14,10 @@
       "value": "COMBAT"
     },
     "armorTextureFile": "triplecompressed",
-    "helmetName": "TripleCompressed Helmet",
-    "bodyName": "TripleCompressed Chestplate",
-    "leggingsName": "TripleCompressed Leggings",
-    "bootsName": "TripleCompressed Boots",
+    "helmetName": "Triple Compressed Grass Helmet",
+    "bodyName": "Triple Compressed Grass Chestplate",
+    "leggingsName": "Triple Compressed Grass Leggings",
+    "bootsName": "Triple Compressed Grass Boots",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -48,10 +48,10 @@
     "damageValueLeggings": 12,
     "damageValueBoots": 4,
     "enchantability": 18,
-    "toughness": 0.0,
+    "toughness": 0.30000000000000004,
     "knockbackResistance": 0.0,
     "equipSound": {
-      "value": ""
+      "value": "entity.armorstand.place"
     },
     "repairItems": [
       {

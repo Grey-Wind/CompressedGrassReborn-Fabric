@@ -14,10 +14,10 @@
       "value": "COMBAT"
     },
     "armorTextureFile": "nonuplecompressed",
-    "helmetName": "NonupleCompressed Helmet",
-    "bodyName": "NonupleCompressed Chestplate",
-    "leggingsName": "NonupleCompressed Leggings",
-    "bootsName": "NonupleCompressed Boots",
+    "helmetName": "Nonuple Compressed Grass Helmet",
+    "bodyName": "Nonuple Compressed Grass Chestplate",
+    "leggingsName": "Nonuple Compressed Grass Leggings",
+    "bootsName": "Nonuple Compressed Grass Boots",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -48,8 +48,8 @@
     "damageValueLeggings": 60,
     "damageValueBoots": 20,
     "enchantability": 90,
-    "toughness": 0.0,
-    "knockbackResistance": 0.0,
+    "toughness": 3.0,
+    "knockbackResistance": 0.5,
     "equipSound": {
       "value": ""
     },
