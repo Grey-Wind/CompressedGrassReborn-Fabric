@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "sextuplecompressed_boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:GrassArmor"
     },
     "armorTextureFile": "sextuplecompressed",
     "helmetName": "Sextuple Compressed Grass Helmet",

@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "octuplecompressed_boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:GrassArmor"
     },
     "armorTextureFile": "octuplecompressed",
     "helmetName": "Octuple Compressed Grass Helmet",
