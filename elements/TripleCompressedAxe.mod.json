@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "triplecompressed_axe",
     "customModelName": "Normal",
-    "name": "TripleCompressed Axe",
+    "name": "Triple Compressed Grass Axe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
@@ -15,7 +15,7 @@
     "efficiency": 9.0,
     "attackSpeed": 1.0,
     "enchantability": 28,
-    "damageVsEntity": 4.0,
+    "damageVsEntity": 18.0,
     "usageCount": 660,
     "blocksAffected": [],
     "hasGlow": false,

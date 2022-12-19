@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "compressed_pickaxe",
     "customModelName": "Normal",
-    "name": "Compressed Pickaxe",
+    "name": "Compressed Grass Pickaxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"

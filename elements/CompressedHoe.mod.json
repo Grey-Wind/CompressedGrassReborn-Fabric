@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "compressed_hoe",
     "customModelName": "Normal",
-    "name": "Compressed Hoe",
+    "name": "Compressed Grass Hoe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"

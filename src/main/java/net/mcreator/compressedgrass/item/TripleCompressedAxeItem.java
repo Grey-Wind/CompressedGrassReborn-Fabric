@@ -22,7 +22,7 @@ public class TripleCompressedAxeItem extends AxeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 2f;
+				return 16f;
 			}
 
 			public int getLevel() {

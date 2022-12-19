@@ -22,7 +22,7 @@ public class CompressedAxeItem extends AxeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 0f;
+				return 7f;
 			}
 
 			public int getLevel() {

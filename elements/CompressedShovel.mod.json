@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "compressed_shovel",
     "customModelName": "Normal",
-    "name": "Compressed Shovel",
+    "name": "Compressed Grass Shovel",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"

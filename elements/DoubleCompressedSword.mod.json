@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "doublecompressed_sword",
     "customModelName": "Normal",
-    "name": "DoubleCompressed Sword",
+    "name": "Double Compressed Grass Sword",
     "specialInfo": [],
     "creativeTab": {
       "value": "COMBAT"
@@ -15,7 +15,7 @@
     "efficiency": 8.0,
     "attackSpeed": 1.0,
     "enchantability": 21,
-    "damageVsEntity": 3.0,
+    "damageVsEntity": 9.0,
     "usageCount": 441,
     "blocksAffected": [],
     "hasGlow": false,

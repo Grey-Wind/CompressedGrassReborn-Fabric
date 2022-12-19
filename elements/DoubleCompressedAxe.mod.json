@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "doublecompressed_axe",
     "customModelName": "Normal",
-    "name": "DoubleCompressed Axe",
+    "name": "Double Compressed Grass Axe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
@@ -15,7 +15,7 @@
     "efficiency": 8.0,
     "attackSpeed": 1.0,
     "enchantability": 21,
-    "damageVsEntity": 3.0,
+    "damageVsEntity": 14.0,
     "usageCount": 441,
     "blocksAffected": [],
     "hasGlow": false,

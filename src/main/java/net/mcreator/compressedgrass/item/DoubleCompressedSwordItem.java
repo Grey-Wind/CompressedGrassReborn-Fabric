@@ -22,7 +22,7 @@ public class DoubleCompressedSwordItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 1f;
+				return 7f;
 			}
 
 			public int getLevel() {
