@@ -8,7 +8,7 @@
     "name": "Triple Compressed Grass Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:GrassTools"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 4,
