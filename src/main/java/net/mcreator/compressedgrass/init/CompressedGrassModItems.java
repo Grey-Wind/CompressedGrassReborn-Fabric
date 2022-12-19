@@ -8,7 +8,12 @@ import net.minecraft.world.item.Item;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.core.Registry;
 
+import net.mcreator.compressedgrass.item.TripleCompressedSwordItem;
+import net.mcreator.compressedgrass.item.TripleCompressedShovelItem;
+import net.mcreator.compressedgrass.item.TripleCompressedPickaxeItem;
+import net.mcreator.compressedgrass.item.TripleCompressedHoeItem;
 import net.mcreator.compressedgrass.item.TripleCompressedGrassItem;
+import net.mcreator.compressedgrass.item.TripleCompressedAxeItem;
 import net.mcreator.compressedgrass.item.TripleCompressedArmorItem;
 import net.mcreator.compressedgrass.item.SextupleCompressedGrassItem;
 import net.mcreator.compressedgrass.item.SextupleCompressedArmorItem;
@@ -22,9 +27,19 @@ import net.mcreator.compressedgrass.item.OctupleCompressedGrassItem;
 import net.mcreator.compressedgrass.item.OctupleCompressedArmorItem;
 import net.mcreator.compressedgrass.item.NonupleCompressedGrassItem;
 import net.mcreator.compressedgrass.item.NonupleCompressedArmorItem;
+import net.mcreator.compressedgrass.item.DoubleCompressedSwordItem;
+import net.mcreator.compressedgrass.item.DoubleCompressedShovelItem;
+import net.mcreator.compressedgrass.item.DoubleCompressedPickaxeItem;
+import net.mcreator.compressedgrass.item.DoubleCompressedHoeItem;
 import net.mcreator.compressedgrass.item.DoubleCompressedGrassItem;
+import net.mcreator.compressedgrass.item.DoubleCompressedAxeItem;
 import net.mcreator.compressedgrass.item.DoubleCompressedArmorItem;
+import net.mcreator.compressedgrass.item.CompressedSwordItem;
+import net.mcreator.compressedgrass.item.CompressedShovelItem;
+import net.mcreator.compressedgrass.item.CompressedPickaxeItem;
+import net.mcreator.compressedgrass.item.CompressedHoeItem;
 import net.mcreator.compressedgrass.item.CompressedGrassItem;
+import net.mcreator.compressedgrass.item.CompressedAxeItem;
 import net.mcreator.compressedgrass.item.CompressedArmorItem;
 import net.mcreator.compressedgrass.CompressedGrassMod;
 
@@ -74,6 +89,21 @@ public class CompressedGrassModItems {
 	public static Item NONUPLE_COMPRESSED_ARMOR_CHESTPLATE;
 	public static Item NONUPLE_COMPRESSED_ARMOR_LEGGINGS;
 	public static Item NONUPLE_COMPRESSED_ARMOR_BOOTS;
+	public static Item COMPRESSED_PICKAXE;
+	public static Item COMPRESSED_AXE;
+	public static Item COMPRESSED_SWORD;
+	public static Item COMPRESSED_SHOVEL;
+	public static Item COMPRESSED_HOE;
+	public static Item DOUBLE_COMPRESSED_PICKAXE;
+	public static Item DOUBLE_COMPRESSED_AXE;
+	public static Item DOUBLE_COMPRESSED_SWORD;
+	public static Item DOUBLE_COMPRESSED_SHOVEL;
+	public static Item DOUBLE_COMPRESSED_HOE;
+	public static Item TRIPLE_COMPRESSED_PICKAXE;
+	public static Item TRIPLE_COMPRESSED_AXE;
+	public static Item TRIPLE_COMPRESSED_SWORD;
+	public static Item TRIPLE_COMPRESSED_SHOVEL;
+	public static Item TRIPLE_COMPRESSED_HOE;
 
 	public static void load() {
 		COMPRESSED_GRASS = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "compressed_grass"),
@@ -168,5 +198,33 @@ public class CompressedGrassModItems {
 				new ResourceLocation(CompressedGrassMod.MODID, "nonuple_compressed_armor_leggings"), new NonupleCompressedArmorItem.Leggings());
 		NONUPLE_COMPRESSED_ARMOR_BOOTS = Registry.register(Registry.ITEM,
 				new ResourceLocation(CompressedGrassMod.MODID, "nonuple_compressed_armor_boots"), new NonupleCompressedArmorItem.Boots());
+		COMPRESSED_PICKAXE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "compressed_pickaxe"),
+				new CompressedPickaxeItem());
+		COMPRESSED_AXE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "compressed_axe"), new CompressedAxeItem());
+		COMPRESSED_SWORD = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "compressed_sword"),
+				new CompressedSwordItem());
+		COMPRESSED_SHOVEL = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "compressed_shovel"),
+				new CompressedShovelItem());
+		COMPRESSED_HOE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "compressed_hoe"), new CompressedHoeItem());
+		DOUBLE_COMPRESSED_PICKAXE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "double_compressed_pickaxe"),
+				new DoubleCompressedPickaxeItem());
+		DOUBLE_COMPRESSED_AXE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "double_compressed_axe"),
+				new DoubleCompressedAxeItem());
+		DOUBLE_COMPRESSED_SWORD = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "double_compressed_sword"),
+				new DoubleCompressedSwordItem());
+		DOUBLE_COMPRESSED_SHOVEL = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "double_compressed_shovel"),
+				new DoubleCompressedShovelItem());
+		DOUBLE_COMPRESSED_HOE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "double_compressed_hoe"),
+				new DoubleCompressedHoeItem());
+		TRIPLE_COMPRESSED_PICKAXE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "triple_compressed_pickaxe"),
+				new TripleCompressedPickaxeItem());
+		TRIPLE_COMPRESSED_AXE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "triple_compressed_axe"),
+				new TripleCompressedAxeItem());
+		TRIPLE_COMPRESSED_SWORD = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "triple_compressed_sword"),
+				new TripleCompressedSwordItem());
+		TRIPLE_COMPRESSED_SHOVEL = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "triple_compressed_shovel"),
+				new TripleCompressedShovelItem());
+		TRIPLE_COMPRESSED_HOE = Registry.register(Registry.ITEM, new ResourceLocation(CompressedGrassMod.MODID, "triple_compressed_hoe"),
+				new TripleCompressedHoeItem());
 	}
 }
